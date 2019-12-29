@@ -14,7 +14,7 @@ def link
 end
 
 def any_phrase (phrase)
-  phrase = " Do A Barel Roll!"
-  puts phrase 
+  catch_phrase = " Do A Barel Roll!"
+  puts catch_phrase  
 end
 
