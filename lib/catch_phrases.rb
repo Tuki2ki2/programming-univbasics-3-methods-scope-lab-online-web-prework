@@ -14,7 +14,4 @@ def link
 end
 
 def any_phrase
-  catch_phrase = "Do A Barell Roll!"
-  puts catch_phrase  
-end
-
+  argument = " "
